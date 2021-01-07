@@ -1,0 +1,4 @@
+# ignore all python binary
+__pycache__
+*.idea
+calib_photos
